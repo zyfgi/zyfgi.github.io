@@ -9,6 +9,11 @@ redirect_from:
 
 {% include base_path %}
 Yifei Zhao        赵逸飞
+======
+Tel:              +86-13905311061
+Email:            yifei_zhao@foxmail.com
+Address           No.2 Wenhuaxi Road, Weihai, China
+
 Education
 ======
 * M.S.-Ph.D in Mechanical Engineering, Harbin Institute of Technology, 2024-
