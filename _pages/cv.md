@@ -6,9 +6,9 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-
+<font face="Times new roman">
 {% include base_path %}
-Yifei Zhao&emsp;&emsp;赵逸飞
+Yifei Zhao&emsp;&emsp;赵逸飞</font>
 ======
 * Tel:&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;+86-13905311061
 * Email:&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;yifei_zhao@foxmail.com
