@@ -10,6 +10,7 @@ redirect_from:
 {% include base_path %}
 Yifei Zhao&emsp;&emsp;&emsp;赵逸飞
 ======
+
 * Tel:&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;+86-13905311061
 * Email:&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;yifei_zhao@foxmail.com
 * Address:&emsp;&emsp;&emsp;&emsp;&emsp;No.2 Wenhuaxi Road, Weihai, China
@@ -39,14 +40,28 @@ Research Interests
   * Duties included: Merging pull requests
   * Advanced Electric Machine control
 
+Honors
+======
+---
+* First Prize of Formula Student Combustion China
+* Honorable Mention of Mathematical Contest in Modeling
+* Second Prize of Shandong Division of China Undergraduate Mathematical Contest in Modelling
+* Harbin Institute of Technology Outstanding Graduates
+* Outstanding Student of Harbin Institute of Technology (2022-2023)
+* Outstanding Student of Harbin Institute of Technology (2020-2021)
+* Grand Prize Scholarship of Harbin Institute of Technology
+* Harbin Institute of Technology Top Ten Team (Intelligent Electric Vehicles Lab)
+
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+---
+* Autonomous Driving Environmental Perception
+  * C/C++, Python, Deep Learning, Pytorch
+* Embedded System Design and Development
+   * PCB design, STM32, DSP, FPGA, RTOS and Embedded system algorithm design with simulink
+   * BLDCs and PMSMs control, Multi-sensor spatio-temporal Synchronization
+* Mechanical Structure Design and Dynamic Simulation
+   * CATIA, Auto CAD, Carsim, ADAMS and ANSYS
 
 Publications
 ======
