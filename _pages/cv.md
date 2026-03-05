@@ -8,30 +8,24 @@ redirect_from:
 ---
 
 {% include base_path %}
-
+Yifei Zhao        赵逸飞
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* M.S.-Ph.D in Mechanical Engineering, Harbin Institute of Technology, 2024-
+* B.S. in Intelligent Automotive Engineering, Harbin Institute of Technology, 2020-2024
 
-Work experience
+Research Interests
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Autonomous driving system
+  * Autonomous Driving Environmental Perception
+  * Road Surface Friction Coefficient Perception
+  * Multi-Sensor Fusion
 
-* Fall 2015: Research Assistant
-  * GitHub University
+* Electric Vehicles and Vehicle Dynamics
+  * Vehicle Control Method Based on Vehicle Dynamics Model
   * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+  * Advanced Electric Machine control
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
 Skills
 ======
 * Skill 1
