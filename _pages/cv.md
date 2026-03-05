@@ -6,9 +6,9 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-<font face="Times new roman">
+
 {% include base_path %}
-Yifei Zhao&emsp;&emsp;赵逸飞</font>
+Yifei Zhao&emsp;&emsp;&emsp;赵逸飞
 ======
 * Tel:&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;+86-13905311061
 * Email:&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;yifei_zhao@foxmail.com
@@ -16,11 +16,18 @@ Yifei Zhao&emsp;&emsp;赵逸飞</font>
 
 Education
 ======
-* M.S.-Ph.D in Mechanical Engineering, Harbin Institute of Technology, 2024-
-* B.S. in Intelligent Automotive Engineering, Harbin Institute of Technology, 2020-2024
+---
+* 09/2024&nbsp;-&nbsp;Present&emsp;&emsp;&emsp;&emsp;**M.S.-Ph.D in Mechanical Engineering**&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;GPA:3.82/4.0 <br>
+
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Harbin Institute of Technology(HIT)&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Supervisor:Prof. Dafang Wang
+
+* 09/2020&nbsp;-&nbsp;06/2024&emsp;&emsp;&emsp;&emsp;**B.Eng. in Intelligent Automotive Engineering**&emsp;&emsp;GPA:3.53/4.0 <br>
+
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Harbin Institute of Technology(HIT)&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Supervisor:Prof. Dafang Wang
 
 Research Interests
 ======
+---
 * Autonomous driving system
   * Autonomous Driving Environmental Perception
   * Road Surface Friction Coefficient Perception
