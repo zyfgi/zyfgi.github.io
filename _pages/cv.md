@@ -17,11 +17,12 @@ Yifei Zhao&emsp;&emsp;&emsp;赵逸飞
 Education
 ======
 ---
+
 * 09/2024&nbsp;-&nbsp;Present&emsp;&emsp;&emsp;&emsp;**M.S.-Ph.D in Mechanical Engineering**&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;GPA:3.82/4.0 <br>
 
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Harbin Institute of Technology(HIT)&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Supervisor:Prof. Dafang Wang
 
-* 09/2020&nbsp;-&nbsp;06/2024&emsp;&emsp;&emsp;&emsp;**B.Eng. in Intelligent Automotive Engineering**&emsp;&emsp;GPA:3.53/4.0 <br>
+* 09/2020&nbsp;-&nbsp;06/2024&emsp;&emsp;&emsp;&nbsp;**B.Eng. in Intelligent Automotive Engineering**&emsp;&emsp;GPA:3.53/4.0 <br>
 
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Harbin Institute of Technology(HIT)&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Supervisor:Prof. Dafang Wang
 
