@@ -8,11 +8,11 @@ redirect_from:
 ---
 
 {% include base_path %}
-Yifei Zhao&emsp;赵逸飞
+Yifei Zhao&emsp;&emsp;赵逸飞
 ======
-* Tel:              +86-13905311061
-* Email:            yifei_zhao@foxmail.com
-* Address           No.2 Wenhuaxi Road, Weihai, China
+* Tel:&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;+86-13905311061
+* Email:&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;yifei_zhao@foxmail.com
+* Address:&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;No.2 Wenhuaxi Road, Weihai, China
 
 Education
 ======
